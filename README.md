@@ -13,7 +13,7 @@ Computer Science undergraduate interested in building software, machine learning
 
 ---
 
-### 🍽️ Restaurant Management System | Java + Spring Boot
+### 🍽️ [Restaurant Management System | Java + Spring Boot](https://github.com/Harinihegde/restaurant-management-system)
 - Web-based restaurant management application
 - Implemented MVC architecture
 - Applied design patterns including Factory, Singleton, Command, and Facade
@@ -21,7 +21,7 @@ Computer Science undergraduate interested in building software, machine learning
 
 ---
 
-### ✍️ Handwritten CNN Projects | Deep Learning
+### ✍️ [Handwritten CNN Projects | Deep Learning](https://github.com/Harinihegde/Handwritten-CNN)
 - Built CNN-based handwritten digit and character recognition systems
 - Developed using PyTorch
 - Implemented image preprocessing using OpenCV
@@ -29,7 +29,7 @@ Computer Science undergraduate interested in building software, machine learning
 
 ---
 
-### 🎧 Speech-to-Song Classification | Machine Learning
+### 🎧 [Speech-to-Song Classification | Machine Learning](https://github.com/Harinihegde/Speech-to-song)
 - Built an audio classification pipeline
 - Created a custom dataset due to lack of suitable public datasets
 - Extracted 22 audio features using Librosa
@@ -37,7 +37,7 @@ Computer Science undergraduate interested in building software, machine learning
 
 ---
 
-### 💰 Personal Finance Management System | DBMS
+### 💰 [Personal Finance Management System | DBMS](https://github.com/Harinihegde/finance_tracker)
 - Database-driven finance management application
 - Built using Python Tkinter and MySQL
 - Implemented database design, triggers, stored procedures, and complex queries
