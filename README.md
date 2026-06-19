@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Harini Hegde 👋
 
-<!--
-**Harinihegde/Harinihegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate interested in building software, machine learning systems, and solving real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🚨 [Stampede Detection System | Computer Vision](https://github.com/PES2UG23CS256/stampede-detection-system)
+- Deep learning based crowd monitoring system
+- Uses YOLO and OpenCV for crowd/person detection
+- Focused on detecting high-density crowd situations
+
+---
+
+### 🍽️ Restaurant Management System | Java + Spring Boot
+- Web-based restaurant management application
+- Implemented MVC architecture
+- Applied design patterns including Factory, Singleton, Command, and Facade
+- Followed SOLID principles
+
+---
+
+### ✍️ Handwritten CNN Projects | Deep Learning
+- Built CNN-based handwritten digit and character recognition systems
+- Developed using PyTorch
+- Implemented image preprocessing using OpenCV
+- Tested models on custom handwritten samples
+
+---
+
+### 🎧 Speech-to-Song Classification | Machine Learning
+- Built an audio classification pipeline
+- Created a custom dataset due to lack of suitable public datasets
+- Extracted 22 audio features using Librosa
+- Prepared data for machine learning classification
+
+---
+
+### 💰 Personal Finance Management System | DBMS
+- Database-driven finance management application
+- Built using Python Tkinter and MySQL
+- Implemented database design, triggers, stored procedures, and complex queries
+
+
+
