@@ -13,14 +13,6 @@ Computer Science undergraduate interested in building software, machine learning
 
 ---
 
-### 🍽️ [Restaurant Management System | Java + Spring Boot](https://github.com/Harinihegde/restaurant-management-system)
-- Web-based restaurant management application
-- Implemented MVC architecture
-- Applied design patterns including Factory, Singleton, Command, and Facade
-- Followed SOLID principles
-
----
-
 ### ✍️ [Handwritten CNN Projects | Deep Learning](https://github.com/Harinihegde/Handwritten-CNN)
 - Built CNN-based handwritten digit and character recognition systems
 - Developed using PyTorch
